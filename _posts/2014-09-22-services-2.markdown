@@ -1,8 +1,8 @@
 ---
 layout: default
-img:bihsam.jpeg
+img: bihsam1.jpeg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Samsun Yayla Balı
 description: Samsun Yayla Balı
 ---
   Samsun Yayla Balı
